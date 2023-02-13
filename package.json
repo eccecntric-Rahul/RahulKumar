@@ -1,0 +1,19 @@
+{
+  "name": "pesonalreadme",
+  "version": "1.0.0",
+  "description": "Its for my personal information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eccecntric-Rahul/RahulKumar.git"
+  },
+  "author": "Rahul kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eccecntric-Rahul/RahulKumar/issues"
+  },
+  "homepage": "https://github.com/eccecntric-Rahul/RahulKumar#readme"
+}
