@@ -1,4 +1,4 @@
-# Hi there 👋, I am Rahul Kumar (RK)
+# Hi there 👋, I am Rahul Kumar (RK) ![I am Full-Stack Developer (MERN)](./rahulPic.png)
 ### I am a Full-Stack Developer (MERN)
 ![I am Full-Stack Developer (MERN)](./techrahul.png)
 
