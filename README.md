@@ -39,6 +39,17 @@ I am a Full-Stack Web Developer. I have the experties of MERN and familiarity wi
 - 🌟 Hobbies : Fitness Enthusiast , Love Reading and writing
 
 &nbsp;
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eccecntric-Rahul&bg_color=0,000,e50914&title_color=e50914&text_color=f5f5f1&border_radius=1&card_width=500&ring_color=f5f5f1"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccecntric-Rahul&bg_color=0,000,e50914&title_color=e50914&text_color=f5f5f1&border_radius=1&card_width=500" >
+</p>
+
+&nbsp;
+
 ## Contact Me through -
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eccecntric-Rahul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-kumar-821109187//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009120165927)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahul_kr_._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RahulKu51580399)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](https://www.snapchat.com/add/iam-rahulkr?share_id=cxxfsAKcUuU&locale=en-US)  
